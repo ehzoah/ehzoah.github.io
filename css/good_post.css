@@ -1,0 +1,13 @@
+.good_post-item-content{
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+.good_post-item-content > a:link{
+    color: #64b2ff;
+}
+.good_post-item-content > a:visited{
+    color: #64b2ff;
+}
+.good_post-item-content > a:hover{
+    color: #5e7987;
+}
